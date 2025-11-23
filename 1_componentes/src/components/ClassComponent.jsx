@@ -5,7 +5,7 @@ class ClassComponent extends React.Component{
     
     <div>
        <h2>Componente de classe</h2>
-
+       
     </div>
    
     )
